@@ -1,4 +1,4 @@
-import { FiGithub, FiLinkedin, FiTerminal } from "react-icons/fi";
+import { FiGithub, FiLinkedin} from "react-icons/fi";
 import Typewriter from "../typewriter";
 import { NavLink } from "react-router";
 
@@ -62,15 +62,6 @@ export default function Hero() {
                             className="w-10 h-10 flex items-center justify-center rounded-full border border-green-400 text-green-400 hover:bg-green-400 hover:text-black transition"
                         >
                             <FiLinkedin />
-                        </a>
-
-                        <a
-                            href="https://seusite.com"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="w-10 h-10 flex items-center justify-center rounded-full border border-green-400 text-green-400 hover:bg-green-400 hover:text-black transition"
-                        >
-                            <FiTerminal />
                         </a>
                     </div>
 
