@@ -14,8 +14,7 @@ export function Footer() {
                         Passionate about backend, frontend and software architecture.
                     </p>
                 </div>
-
-                {/* CONTACT */}
+                
                 <div>
                     <h3 className="text-lg font-semibold text-white mb-4">
                         Contact

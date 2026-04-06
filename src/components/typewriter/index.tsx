@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from "react";
 
 const words = [
-  "Fullstack Developer",
-  "Backend Developer",
-  "Frontend Developer",
-  "Software Engineer",
-  "Web Developer",
-  "Software Developer",
+  "Desenvolvedor Fullstack",
+  "Desenvolvedor Backend",
+  "Desenvolvedor Frontend",
+  "Engenheiro de Software",
+  "Desenvolvedor Web",
+  "Desenvolvedor de Software",
 ];
 
 export default function Typewriter() {

@@ -5,7 +5,7 @@ export function Skills() {
 
         <div>
           <h2 className="text-2xl font-bold uppercase tracking-wide mb-8 border-b border-gray-700 pb-2">
-            Technical Skills
+            Skills
           </h2>
 
           <div className="space-y-12 border-l border-gray-700 pl-6">
@@ -91,7 +91,7 @@ export function Skills() {
             <div>
               <h3 className="text-lg font-semibold">Databases</h3>
               <p className="text-gray-400">
-                PostgreSQL, MySQL, MongoDB, Redis
+                PostgreSQL, MySQL
               </p>
               <span className="text-sm text-gray-500">
                 Relational and NoSQL databases
@@ -109,7 +109,7 @@ export function Skills() {
             <div>
               <h3 className="text-lg font-semibold">Cloud & DevOps</h3>
               <p className="text-gray-400">
-                AWS, Docker, CI/CD, GitHub Actions
+                Docker
               </p>
               <span className="text-sm text-gray-500">
                 Deployment and automation
@@ -118,7 +118,7 @@ export function Skills() {
             <div>
               <h3 className="text-lg font-semibold">Architecture & Patterns</h3>
               <p className="text-gray-400">
-                MVC, Hexagonal Architecture, Microservices, SOLID
+                MVC, Microservices, SOLID
               </p>
               <span className="text-sm text-gray-500">
                 Software design principles
@@ -127,7 +127,7 @@ export function Skills() {
             <div>
               <h3 className="text-lg font-semibold">Testing</h3>
               <p className="text-gray-400">
-                JUnit, Mockito, Jest, React Testing Library
+                JUnit and Mockito
               </p>
               <span className="text-sm text-gray-500">
                 Unit and integration testing
@@ -136,7 +136,7 @@ export function Skills() {
             <div>
               <h3 className="text-lg font-semibold">Collaboration</h3>
               <p className="text-gray-400">
-                GitFlow, Scrum, Kanban, Jira, Trello
+                Scrum, Trello
               </p>
               <span className="text-sm text-gray-500">
                 Team workflows and agile methods

@@ -17,16 +17,15 @@ export default function Hero() {
                 <div className="w-full max-w-6xl mx-auto px-7 text-left">
 
                     <h1 className="text-5xl font-bold mb-3">
-                        I'm <span className="text-green-400">Ewersson Silva</span>
+                        Eu sou <span className="text-green-400">Ewersson Silva</span>
                     </h1>
 
                     <p className="mt-3 text-3xl">
-                        I'm a <Typewriter />
+                        Eu sou um <Typewriter />
                     </p>
 
                     <p className="text-gray-300 mb-6 mt-6 max-w-lg text-justify">
-                        Software engineering student focused on building scalable, efficient and modern applications.
-                        Passionate about technology, problem solving and continuous learning.
+                       Estudante de engenharia de software com foco no desenvolvimento de aplicações escaláveis, eficientes e modernas. Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
                     </p>
 
                     <nav className="mt-6 flex flex-wrap gap-6 text-sm uppercase font-medium">

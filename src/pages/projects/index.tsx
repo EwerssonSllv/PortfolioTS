@@ -26,6 +26,14 @@ const projects = [
         demo: "https://alcoholorgasolineewerssonslv.netlify.app/",
         github: "https://github.com/EwerssonSllv/GasolineOrAlcohol",
         category: "Frontend",
+    },
+    {
+        title: "SaaS: Dashlyze",
+        description: "Sistema SaaS fullstack para gestão de vendas e análise de dados financeiros, com autenticação JWT, arquitetura escalável e integração entre frontend moderno e backend robusto.",
+        techs: ["NextJS", "Tailwind CSS", "Java", "Spring Boot", "Spring Security", "PostgreSQL", "JWT"],
+        demo: "https://dashlyze-front.vercel.app/",
+        github: "https://github.com/EwerssonSllv/front-dash",
+        category: "Fullstack",
     }
 
 ];
@@ -47,7 +55,7 @@ export default function Projects() {
 
             <div className="max-w-7xl mx-auto px-6">
                 <h2 className="text-3xl font-medium mb-12 text-center">
-                    Projects
+                    Projetos
                 </h2>
 
                 {categories.map((category) => {

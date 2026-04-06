@@ -5,16 +5,24 @@ export function Carrer() {
 
         <div>
           <h2 className="text-2xl font-bold uppercase tracking-wide mb-8 border-b border-gray-700 pb-2">
-            Education
+            Educação
           </h2>
 
           <div className="space-y-8">
             <div>
               <h3 className="text-lg font-semibold">
-                Systems Analysis and Development
+                Análise e Desenvolvimento de Sistemas
               </h3>
               <p className="text-gray-400">Unip - Remote</p>
               <span className="text-sm text-gray-500">2025 - Present</span>
+            </div>
+
+            <div>
+              <h3 className="text-lg font-semibold">
+                Ciências Econômicas
+              </h3>
+              <p className="text-gray-400">UFPB - João Pessoa</p>
+              <span className="text-sm text-gray-500">2026 - Present</span>
             </div>
 
             <div>
@@ -27,21 +35,21 @@ export function Carrer() {
 
         <div>
           <h2 className="text-2xl font-bold uppercase tracking-wide mb-8 border-b border-gray-700 pb-2">
-            Experience
+            Experiência
           </h2>
 
           <div className="space-y-8">
             <div>
               <h3 className="text-lg font-semibold">
-                Brazilian Army — Military Service
+                Exército Brasileiro — Serviço Militar
               </h3>
-              <p className="text-gray-400">Soldier</p>
+              <p className="text-gray-400">Soldado</p>
               <span className="text-sm text-gray-500">2025 - 2026</span>
 
               <ul className="mt-2 text-gray-300 list-disc list-inside space-y-1">
-                <li>Teamwork and discipline in high-pressure environments</li>
-                <li>Operational training and organizational activities</li>
-                <li>Development of leadership and responsibility</li>
+                <li>Trabalho em equipe e disciplina em ambientes de alta pressão</li>
+                <li>Treinamento operacional e atividades organizacionais</li>
+                <li>Desenvolvimento de liderança e responsabilidade</li>
               </ul>
             </div>
           </div>
